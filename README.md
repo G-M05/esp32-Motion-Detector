@@ -17,7 +17,7 @@ ESP32 based ultrasonic motion detector with OLED visual and buzzer alerts. Built
 |------------------|----------------|-------------------------------------------|
 | HC‑SR04 Trig     | GPIO 26        |                                           |
 | HC‑SR04 Echo     | GPIO 27        |                                           |
-| HC‑SR04 VCC      | VIN            | use level‑divider if powered at 5 V       |
+| HC‑SR04 VCC      | VIN            |      |
 | Servo signal     | GPIO 14        | 5 V & GND from common rail                |
 | Buzzer (+/–)     | GPIO 25 / GND  | Active buzzer                             |
 | SSD1306 SDA      | GPIO 21        |                                           |
