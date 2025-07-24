@@ -1,7 +1,7 @@
 
 ESP32 based ultrasonic motion detector with OLED visual and buzzer alerts. Built as a learning project to explore IoT sensors and real-time data visualization.
 
-## STATUS ## : In development
+## STATUS: In development
 
 ## Features ##
 - Ultrasonic distance: HC‑SR04 measures range up to 400 cm  
