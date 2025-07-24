@@ -21,8 +21,3 @@ Hardware Setup
  SSD1306 SCL       GPIO 22D                                                 
  Buzzer (+/−)      GPIO 25D / GND                              
 
-Quick Start
-1.Install Arduino IDE with ESP32 board support
-2.Add libraries: Adafruit SSD1306, Adafruit GFX, NewPing, ESP32Servo
-3.Upload main.ino to your ESP32
-4.Wire components according to pin table above
