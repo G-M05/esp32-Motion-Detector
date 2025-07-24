@@ -17,7 +17,7 @@ Hardware Setup
  HC‑SR04 Trig      GPIO 26D                                                   
  HC‑SR04 Echo      GPIO 27D          
  Servo signal      GPIO 14D         5 V & GND from common rail                
- SSD1306 SDA       GPIO 21D                                                   
- SSD1306 SCL       GPIO 22D                                                 
+ OLED SDA       GPIO 21D                                                   
+ OLDE SCL       GPIO 22D                                                 
  Buzzer (+/−)      GPIO 25D / GND                              
 
