@@ -14,14 +14,14 @@ Features
 Hardware Setup
  Component         ESP32 Pin            Notes                            
 
- HC‑SR04 Trig      GPIO 26D                                                   
- HC‑SR04 Echo      GPIO 27D          
- Servo signal      GPIO 14D         5 V & GND from common rail 
- Buzzer (+/−)      GPIO 25D / GND  
- OLED:
+- HC‑SR04 Trig      GPIO 26D                                                   
+- HC‑SR04 Echo      GPIO 27D          
+- Servo signal      GPIO 14D         5 V & GND from common rail 
+- Buzzer (+/−)      GPIO 25D / GND  
+- OLED:
  SDA               GPIO 21D                                                   
  SCL               GPIO 22D                                                   
- SD Reader:
+- SD Reader:
  CS                GPIO 5D 
  MOSI              GPIO 23D 
  MISO              GPIO 19D 
