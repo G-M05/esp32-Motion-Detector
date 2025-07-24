@@ -16,8 +16,17 @@ Hardware Setup
 
  HC‑SR04 Trig      GPIO 26D                                                   
  HC‑SR04 Echo      GPIO 27D          
- Servo signal      GPIO 14D         5 V & GND from common rail                
- OLED SDA       GPIO 21D                                                   
- OLDE SCL       GPIO 22D                                                 
- Buzzer (+/−)      GPIO 25D / GND                              
+ Servo signal      GPIO 14D         5 V & GND from common rail 
+ Buzzer (+/−)      GPIO 25D / GND  
+ OLED:
+ SDA               GPIO 21D                                                   
+ SCL               GPIO 22D                                                   
+ SD Reader:
+ CS                GPIO 5D 
+ MOSI              GPIO 23D 
+ MISO              GPIO 19D 
+ SCK               GPIO 18D 
+ VCC               GPIO 3.3V       MUST be 3.3V, not 5V
+ GND               GND             Common ground with ESP32 and sensors
+ 
 
