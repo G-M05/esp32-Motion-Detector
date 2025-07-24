@@ -7,7 +7,9 @@ Features
 - Ultrasonic distance: HC‑SR04 measures range up to 400 cm  
 - Device scanning: Servo motor sweeps sensor through 180°  
 - OLED dashboard: SSD1306 OLED Display shows live distance, angle, and alerts  
-- Buzzer alerts: Continuous tone when an object is detected within threshold  
+- Buzzer alerts: Continuous tone when an object is detected within threshold
+- Data logging: Records timestamp, distance, and servo angle to an SD card in CSV format
+
 
 Hardware Setup
  Component         ESP32 Pin            Notes                            
